@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @EnderHugo
-- 👀 I’m interested in : game and software development !
-- 🌱 I’m currently learning about : databases and networks
-- 💞️ I’m looking to collaborate on : ???
-- 📫 How to reach me : You can't
+- Howdy, name's Ender!
+- I'm a 17 year old interested in game and software development
+- Currently learning about quality testing of softwares
+- Genderfluid - (She/Her)
+
 
 <!---
 EnderHugo/EnderHugo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
