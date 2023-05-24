@@ -1,7 +1,6 @@
 - Howdy, name's Ender!
-- I'm a 17 year old interested in game and software development
+- I'm an 18 year old interested in game and software development
 - Currently learning about quality testing of softwares
-- Genderfluid - (She/Her)
 
 
 <!---
